@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Bahuguna</h1>
 <h3 align="center">A passionate full-stack web developer from India</h3>
 
-- 🔭 I’m currently working with [@RapidInnovation](https://www.rapidinnovation.io/)
+- 🔭 I’m currently involved with a stealth startup specializing in advanced search algorithm development and innovation.
 
 - 🌱 I’m currently learning **Solidity, Etherium.js, Web3js,Truffle**
 
