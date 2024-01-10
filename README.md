@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Solidity, Etherium.js, Web3js,Truffle**
 
-- 👨‍💻 All of my projects are available at [https://home.webdetox.in](https://home.webdetox.in)
+- 👨‍💻 All of my projects are available at [https://www.akshatbahuguna.tech](https://www.akshatbahuguna.tech)
 
 - 💬 Ask me about **Web3, Nodejs, NestJs, Reactjs,Django**
 
